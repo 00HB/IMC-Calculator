@@ -67,7 +67,7 @@ calculadora_imc.py
 
 El código fuente de este proyecto está disponible en el siguiente enlace:
 
-https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO
+https://github.com/00HB/IMC-Calculator
 
 ## Autor
 
